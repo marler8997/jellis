@@ -10,7 +10,7 @@ Health Care Provider CPR Course
 Introduction
 ------------------------------------------
     BLS = "Basic Life Support"
-    
+
     How to assess and respond to
         1. Heart Attack (blocked vessel in heart)
         2. Cardiac Arrest (abnormal or no rhythm)
@@ -36,7 +36,7 @@ Personal Safety
 2. Obtain Consent
     - If victim is responsive, state your name/training/experience and ask if you can help
     - Keep victim informed of your actions
-    - Consent is implied when victim is unconscious or a child w/out a guardian    
+    - Consent is implied when victim is unconscious or a child w/out a guardian
 3. Use Barrier Devices (personal safety)
     - PPE (Personal Protective Equipment) like gloves/breathing devices
         - Face Mask/Face Shield/Bag-Valve mask/Wall Dispensor
@@ -55,15 +55,15 @@ Good Samaritan immumity generally applies to:
     2. Acting in good faith (he/she has good intentions)
     3. Acting without compensation
     4. Not guilty of malicious misconduct or gross neglegence toward the victivm)
-    
-    
+
+
 Heart and Lungs
 ------------------------------------------
 Stroke: disruption of blood supply to the brain
 Cardiac Arrest: heart stops beating
 Heart Attack: An area of the heart does not receive enough oxygen and begins to die.  Usually caused by a blocked artey in the heart.
 Respiratory Arrest: Lungs fail to receive oxygen.
-    
+
 Prevention
 ------------------------------------------
 Exercise
@@ -133,7 +133,7 @@ Bag-Valve Mask(BVM): Uses a bag instead of the recuers breath.  Usually requires
 Supplemental Oxygen Support(SOS): Delivers high concentrations of oxygen to breathing and non-breathing victims.  Import to have training to operate.
 Suction Devices: Removes fluids from a victim's mouth (like vomit).
   Note: Vomiting is common during resuscitation and is a threat to the victims airway. Turn the victims head to the side to drain fluid and clear any large debres with a finger sweep.
-  
+
 
 Heart Attack
 ------------------------------------------
@@ -210,75 +210,354 @@ Choking
 Lifeguarding Course
 ===================================================
 
-Introduction
+Textbook Chapter 1: Professional and Accountable Lifeguards
 ------------------------------------------
-The "standard of care" is the expected level of skills/care at which lifeguards are expected to perform.
-For lifeguards who completed ILTP (International Lifeguard Training Program) this consists of:
-    1. Proactive simmer protection that meets the 10/20 protection rule
-    2. Test ready skill maintenance
-    3. Demonstration of professional image
-Ellis & Associates (E & A) Traning Areas of Emphasis
-    1. Prevention
-    2. Professionalism
-        - Be Punctual
-        - Be in proper uniform (neat/clean)
-        - Be Prepared (have equipment)
-        - Be Pleasant (act cordial to guests and coworkers)
-        - Be Attentive (Keep eyes on guests and avoid distractions)
-        - Be Vigilant (maintain skills and performance)
-        - Be Knowledgeable (Know/Enfore the facility rules)
-    3. Accountability
+10/20 Protection Standard
+    10 seconds to recognize and emergency, 20 seconds to reach the guest
+
 Skills
-    1. Anticipate
-    2. Recognize
-    3. Respond
+    1. Anticipate: Be mentally and physically prepared to respond to an emergency
+    2. Recognize: Maintain vigilance for scanning strategies and the 10/20 protection standard.
+    3. Manage
 
-Awareness and Recognition
+The "standard of care" is the degree of care that a responsible person is expected to provide in preventing or managing the injury or illness of others.  It also takes into account what other, similarly qualified practitioners would have done.
+
+For lifeguards who completed ILTP (International Lifeguard Training Program) this consists of:
+    - Proactive simmer protection that meets the 10/20 protection rule
+    - Maintaining lifeguard skills (including rescues at a test-ready level)
+    - Maintaining a professional image
+    - Using available equipment effectively and safely
+    - Using personal protection measures and equipment to mitigate risks arising from on-the-job hazards
+    - Working effectively to follow the facility's EAP
+
+Maintaining a professional image
+    - Practice personal safety
+    - Get plenty of rest
+    - Be Punctual
+    - Maintain vigilance
+    - Be rescue ready (always be test-ready)
+    - Practice excellent customer service
+    - Know, enforce, and model rules
+    - Be a team player
+
+Using a Rescue Tube
+    - Helps minimize personal danger during a rescue
+    - Identifies lifeguards on duty
+    - Can support several large people
+    - Positioned between the lifeguard and the guest for protection
+    - If guest is not breathing, can be used to position the guest in an open airway position to facilitate rescue breathing in the water
+    - Can be used to support a backboard in the water during extrications where a spinal injury is suspected
+    Note: be sure to take up any slack when holding the tube so it doesn't get caught on anything
+
+Sunglasses tips
+    - Polarized: Reduces glare on the surface of the water
+    - UVA and UVB Protection
+    - Meets ANSI Z80.3 blocking requirements
+    - Grey/Green/Brown lens will have the least color distortion.  Yellow and rose will have the most.
+
+Sunscreen tips
+    - SPF 15 or higher will absorb most ultraviolet type B (UVB)
+    - Make sure it is labeled "Broad Spectrum", which means it covers UVB and UVA.
+    - "Water Resistant" means it maintains it's rating in water for at least 40 minutes, "Water Proff" is 80 minutes.
+
+Protection from Infectious Disease
+    - Use PPE "Personal protective equipment" like gloves/eyewear/breathing devices.
+    - Dispose of contaminated and sharp materials properly
+    - Clean hands and other areas that may have been exposed to bodily fluids
+
+Questions
+   Professional lifeguards who are trained in the ILTP are taught to anticipate, recognize and manage aquatic emergencies.
+     TRUE
+   "Standard of care" means that individual lifeguards set the standard of care they plan on providing a guest
+     FALSE
+   It is optional for lifeguards to wear sunscreen and sunglasses when working outside in sunny conditions
+     FALSE
+   Lifeguards perform well when evaluated because they perform well at all times while on duty
+     TRUE
+
+Textbook Chapter 2: The Vigilant Lifeguard
 ------------------------------------------
-Lifeguard from the bottom up: If you don't know, GO!
 
-Distress Signals
-    1. Body Position (Diagonal or Vertical with Extended Arms)
-    2. Little or no forward movement
-    3. Head tilted, gasping for air, often unable to shout for help
-5 Stages of Drowning
+Scanning patterns
+    - All scanning includes downward head movement
+    - Develop scanning patters that work for you, here are some
+        * Alphabet Scanning
+        * Circular Scanning
+        * Figure Eight Scanning
+        * Roving lifeguards Curve Scanning
+        * Side-to-side Scanning
+        * Up and down Scanning
+        * Triangle Scanning
+        * Scanning around and underneath objects
+        * Scan along the wall
+
+Distractions to avoid
+    - Fatigue: Environmental/mental
+    - Social: Guests/friends/family/staff
+    - Secondary Duties: Other responsibilities that are incompatible with the 10/20 standard.
+
+To minimize fatigue maintain frequent changes
+    - Change your scanning pattern
+    - Change your body position
+    - Limit time at positions/duties and rotate often
+    - Strategic lifeguard breaks
+
+Social distractions can be unavoidable, however, they cannot prevent you from maintaining the 10/20 standard.  If someone requires more direct attention, alert a supervisor (or other staff) to assist.
+
+A GID "Guest In Distress" is a guest who needs the immediate assistance of a lifeguard.
+A GID will be in 1 of 3 vertical locations:
+    1. On the surface
+    2. Below the surface within arms reach of the surface
+    3. Below the surface beyond arms reach of the surface
+Signs of an "Active GID"
+    - Body Position
+         * Body position vertical or diagonal
+         * Legs not kicking
+         * Arms extended, maybe trying to reach/grab for something
+         * May be turned towards safety (wall/lifeguard/lane line)
+    - Movement: Little to no forward movement
+    - Appearance: Expending all energy to stay above water.  Look of fear/panic.
+    - Breathing: Head held back to keep mouth above water.  Possibly little to no calling out for help.
+
+If you notice anything blow the surface of a pool and cannot identify it, go check it out.
+"If you don't know, GO!"
+Any lack of movement demands immediate attention.
+
+The Drowning Process
     1. Surprise
-    2. Involuntary Breath Holding
+    2. Respiratory Arrest
     3. Unconsiousness
     4. Hypoxic Convulsions (caused by lack of oxygen to the brain, person appears rigid/stiff/jerks violently and can froth from the mouth)
-    5. Clinical Death
+    5. Cardiac Arrest
+    6. Death
 Passive Drowning (caused by heart attack, stroke, blackouts, seizures, head injury, drugs, or alcohol)
 Active Drowning (May struggle on the surface for a short period before submerging)
 
-Dry Drowning and Wet Drowning
-    Dry (10 - 20%) Wet (80 - 90%)
-    Based on whether whater is present in the lungs after death
 
-Guests with greater potential for becoming distressed include
-    1. Guests between age of 7 - 12
-    2. Young children
-    3. Smaller people who wade into deeper water
-    4. People who can't swim
-    5. Drunk people
-    6. Unusual/Extreme body proportions
-    7. Elderly
-    8. Disabled
-    9. Guests with life jackets
-Places with high risk
-    1. Drop-off areas
-    2. Deep Water
-    3. Wave pools
-    4. Diving wells
-    5. Pool exits
-    6. Lake areas
-Time of day
-    1. Mid-day (12-4PM)
-    2. Holidays
-    3. Extremely hot days
+High-Risk Guests
+    - Children and Elderly
+    - Non-swimmers or weak swimmers not wearing a life jacket
+    - Guests with life jackets
+    - Guests who have consumed drugs/alcohol
+    - Guests prone to illness
+High-Risk Locations
+    - Children's activity pools
+    - Slide catch pools
+    - Wave Pools
+    - Traditional Lap Pools
+High-Risk Times
+    - Conscious active guests and unconscious: Noon to 4PM
+    - Suspected spinals: 3PM to 6PM
+    - Non-Aquatic: 9AM to Noon, and 3PM to 6PM
+
+Questions
+    Your supervisor may interrupt your 10/20 protection standard if needed without having someone else cover your Zone of Protection area.
+      FALSE
+    Guests in distress who are experiencing passive drowning cover all stages of the drowning process
+      FALSE (may immediately loose consciousness and require immediate BLS (Basic Life Support) care)
+    Shallow water is not as dangerous as deep water
+      FALSE (Shallow water is more likely to have a major incident than deep water)
+
+
+Textbook Chapter 3: The Lifeguard team
+------------------------------------------
+
+Primary means of communication by lifeguards are WHISTLE and HAND SIGNALS.
+
+Default Whistle Signals
+  - TWO SHORT BLASTS: Get the attention of another guard
+
+Default Hand Signals
+  - TAPPING THE TOP OF HEAD: Cover my zone
+
+During an emergency, backup should be available to provide zone coverage assistance.
+If no backup is available, the zone should be cleared and closed until backup is available.
+
+EAP should detail how zone coverage is accomplished.
+
+During rotation, both guards complete a proactive bottom scan.
+
+
+Questions
+    A lifeguard can function without any assistance during an emergency
+      FALSE
+    A whistle is an optional piece of equipment
+      FALSE
+    I would use TWO SHORT WHISTLE BLASTS to get another lifeguard's attention, along with TAPPING THE TOP OF MY HEAD to indicate that I need a lifeguard to cover my Zone of Protection.
+      TRUE
+
+
+Textbook Chapter 4: Guest Relations and Additional Responsibilities
+------------------------------------------
+
+Rule Enforcement
+    - Know where the rules are posted and point them out
+    - Understand and be able to explain the rules
+    - Be consistent with every guest
+    - Be positive/polite/respectful
+C.A.R.E
+    C onfidence
+    A lertness
+    R esponsiveness
+    E mpathy
+For difficult situations follow the D.E.A.L philosophy
+    D efine the problem       P ROBLEM
+    E valuate your options    O PTIONS
+    A ct now                  A CT
+    L ook at outcomes         R EVIEW
+Crowd Control
+    - Keep calm
+    - Speak loudly and clearly
+    - Give precise, simple directions
+    - Speak with authority
+Incident Reports must be completed immediately afterwards.
+
+Rain
+    - Rain cause hinder 10/20 beacuse it can hinder underwater vision.  To much rain can make it impossible to see below the surface.
+
+Questions
+    The "C" in "C.A.R.E" stands for "Charisma" as in, the best lifeguards have it.
+      FALSE (It stands for Confidence)
+    Lifeguards can enhance both safety and the enjoyment of guests who are non-swimmers, weak swimmers or children by:
+      "Encouraging the use of properly fitted and worn life jackets"
+
+
+Textbook Chapter 5: Active Guest in Distress Rescues
+------------------------------------------
+
+Assist: Help a guest while maintaining 10/20
+Rescue: Cannot maintain 10/20.  Means you must activate EAP and fill out a rescue report.
+
+Assists from the Deck
+    - Arm Extension
+        * Keep body low and away from water
+        * Extend arm and grasp the guests WRIST or ARM
+        * Move guest to safety and assist out of water (if appropriate)
+    - Rescue Tube Extension
+        * Offer the guest the rescue tube
+        * Place the rescue tube or strap loop in the guests hands
+        * Move guest to safety and assist out of water (if appropriate)
+
+If performing an assist is not possible, then ACTIVATE EAP
+    - Blow whistle and point to GID.
+        * By default the lifeguard to your left should cover your zone at this point
+    - Execute a safe water entry and approach.
+        * Use the compact jump (unless it's a spinal)
+        * Maintain control of the rescue tube
+
+Compact Jump (Goal is to stay at the surface and maintain eye contact with GID)
+    - Take in strap slack to prevent it from catching
+    - Position tube across chest under armpits
+    - Jump with legs together, knees bent, and feet flat
+Approach Stroke (Breaststroke or Front Crawl)
+    - Keep eyes on guest and rescue tube in front of chest
+
+Rescue Before and After (Where you cannot maintain 10/20)
+-------------------------------
+[Before Rescue]
+    - Whistle, point to guest, compact jump
+    Note: this will notify other guards to cover your zone
+    Note: if you will need help, signal by raising a clenched fist before entering the water
+    - Swim towards guest with rescue tube underneath your armpits (or trailing you if you need more speed)
+
+[Perform Rescue]
+
+[After Rescue]
+    - Assist guest from the water and make sure they are in good condition.
+    - Complete rescue report
+
+
+Front Drive (Guest on surface facing you)
+    [Perform Before Rescue]
+    - When close, pull the rescue tube from under your arms and push it out in front of you with both arms locked.
+    - As you near the guest, push the tube slightly underwater and drive it into the chest of the guest.  Keep arms locked straight.
+    - Encourage the guest to hold on to the tube.
+    - Communicate with the guest and keep kicking to maintain your momentum till at the side of the pool.
+
+    If guest grabs you, you may need to perform
+        - Front Hug (Good for smaller guest)
+            * Reach under guest's arms and hug the guest
+            * Keep head slightly to the side to guest cannot hurt you
+        - Flip-Over technique (You are being forced underwater, guest is around your size)
+            * Position yourself above the guest
+        - The push away technique (Cannot control the guest)
+            * Leaving rescue tube with guest, get some air, tuck your chin and submerge while the guest away on the tube
+            * Reapproach the guest or signal help from a second lifeguard
+    [Perform After Rescue]
+
+Rear Hug (Guest on surface facing AWAY from you)
+    [Perform Before Rescue]
+    - When you reach the guest, extend your arms under their armpits and wrap your hands around their shoulders/chest or waist to elevate them above the surface.
+    - Pull the guest onto the tube while keeping your head to the side. Talk to the guest until you reach safety.
+    [Perform After Rescue]
+
+Two-Lifeguard Rescue (GID is too large or active for one guard)
+    [Perform Before Rescue]
+    - Primary rescuer raises a fist above their head to indicate the need for assistance from another guard.
+    - The second lifeguard performs a Rear Hug while the first guard performs a front drive.
+    [Perform After Rescue]
+
+Duck and Pluck rescue (Submerged guest within reach from surface)
+    [Perform Before Rescue]
+    - Grasp rescue tube with one hand.
+    - Reach over the tube to grab the wrist of the submerged guest
+    - Pull them up and with the other hand push the rescue tube under their armpits
+    [Perform After Rescue]
+
+Deep Water Rescue (Submerged guest beyond reach from surface)
+    [Perform Before Rescue]
+    - When directly above the guest, stop and release the rescue tube from under your armpits (be sure the strap is still across your chest/shoulder)
+    - Execute a feet-first surface dive
+    - With one hand, reach across the guest's chest under the armpits. Feed the strap of the rescue tube into that hand.
+    - Continue feeding the strap as you move toward the surface (make sure at least one hand is always holding the strap)
+    - When you reach the surface, position the rescue tube appropriately based on the guest's condition
+    [Perform After Rescue]
+
+Questions
+    If a guest is in trouble but far away from you in the water, you should perform an assist
+      FALSE (you should activate EAP and perform a rescue)
+    To perform the compact jump safely, the lifeguard should keep their feet flat and knees bent
+      TRUE
+    A guest in distress who is active and facing away can best be rescued using the rear hug
+      TRUE
+    The two-guard rescue includes the combination of the front drive and duck pluck rescues
+      FALSE (should be the front driver and the rear hug)
+    The key objectives to accomplish while rescuing multiple guests in distress is to keep guests on the surface and to remember my personal safety
+      TRUE (your own safety is highest priority)
+    To execute a deep water rescue on an ACTIVE GID, a lifeguard must
+      "Grasp the guest across his or her chest or armpit"
+
+
+
+
+Textbook Chapter 6: Respiratory Emergencies
+------------------------------------------
+
+Agonal Breathing
+    An unresponsive guest may have occasional gasping breaths called "agonal breaths".  This occurs in the first few minutes of cardiac arrest.  These are INNEFFECTIVE breaths and should not be confused with adequate breathing.  This occurs in about 50% of all guests experiencing cardiac arrest and indicates rescue breathing should be performed, along with CPU if pulse is absent.
+
+Rescue Breathing
+    [Without BVM (Bag-Valve Mask)]
+        * 1 breath every 5 seconds for adult, 3 seconds for children
+        Each breath should take 1 second and you should see the guest's chest rise
+    
+    
+Has Pulse but Not Breathing.  
+    - Open the airway (Perform head tilt)
+    - Perform Rescue Breathing
+        
+
+Begins to vomit
+    - Put guest in recovery position.
+    - "LogRoll" the guest onto their side, then position upper leg forward to support their position
+    
+    
+
+
+
 
 Reacting to an emergency
 ------------------------------------------
-When you activate your EAP, the lifeguard to your left should assume responsibility of your zone.
 When you hear a whistle signaling an emergency, you should immeidately check the lifeguard to your right and cover his/her zone if necessary.
 If there are not enough guards to cover the zones during a rescue, the attraction/facility must be closed temporarily and all guests cleared from the water.
 Note: Remember to assess scene safety before entering a scene.
@@ -315,7 +594,7 @@ Communcation Devices: Telephone, Radio, Megaphone, PA
 
 "Assist": 10/20 maintained and EAP NOT activated
 "Rescue": EAP activated (10/20 not maintained)
-    
+
 The average rescue tube can support up to 5 people in the water.
 Rescue tube is placed between the lifeguard and the guest to protect the guard.
 The rescue tube can also be used to help keep a guests airway open if they are not breathing.
@@ -323,86 +602,48 @@ The rescue tube can also be used to help keep a guests airway open if they are n
 Note: Some positions may not be required to wear a tube at all times (like a guard at
 
 How to hold rescue tube:
-	- When seated, hold in you lap
+    - When seated, hold in you lap
 
 Rotation:
-	- Incoming guard performs bottom scan.
-	- Equipment is transferred. (if only one rescue tube)
-	- Incoming guard takes the stand while outgoing scans zone.
-	- Both guards scan zone.
+    - Incoming guard performs bottom scan.
+    - Equipment is transferred. (if only one rescue tube)
+    - Incoming guard takes the stand while outgoing scans zone.
+    - Both guards scan zone.
 
 Always have your rescue tube ready!
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Rules, Relations and Responsibilities
 ------------------------------------------
-Responsibilities
-	- Rule Enforcement
-	- Crowd Control
-	- Paperwork
-	- Maintaining Skills
-Rule Enforcement
-	- Be consistent with every guest
-	- Be positive/polite/respectful
-	- Know where the rules are posted and point them out	
-C.A.R.E
-	C onfidence
-	A lertness
-	R esponsiveness
-	E mpathy
-For difficult situations follow the D.E.A.L philosophy
-	D efine the problem       P ROBLEM
-	E valuate your options    O PTIONS
-	A ct now                  A CT
-	L ook at outcomes         R EVIEW
-Crowd Control
-	- Keep calm
-	- Speak loudly and clearly
-	- Give precise, simple directions
-	- Speak with authority
-Incident Reports must be completed immediately afterwards.
-You must always maintain your skills at a test-ready level.
-
-
 Guest on the Surface-Breathing
 ------------------------------------------
 Extension Assist
-	Extend a body part/pole/rescue tube.
-	No need for EAP if you maintain 10/20.
-	Stay low
-	In an arm assist, grab the guests wrist
+    Extend a body part/pole/rescue tube.
+    No need for EAP if you maintain 10/20.
+    Stay low
+    In an arm assist, grab the guests wrist
 Unlike assists, rescues require an incident report. They are also classified in 2 ways:
-	1. Distressed Simmer Rescue - Guest who has shown an inability to remain at the surface.
-	2. Submersion Incident Rescue - Rescuing an unconscious and submerged guest
+    1. Distressed Simmer Rescue - Guest who has shown an inability to remain at the surface.
+    2. Submersion Incident Rescue - Rescuing an unconscious and submerged guest
 Rescue Situations
-	- Guest on surface, breathing
-	- Guest on surface, not breathing
-	- Submerged - within reach
-	- Submerged - beyond reach
+    - Guest on surface, breathing
+    - Guest on surface, not breathing
+    - Submerged - within reach
+    - Submerged - beyond reach
 EAP ensures that all zones are covered.
 
-Compact Jump
-	- Keep eyes on guest
-	- Secure excess line on rescue tube so it will not hook onto something
-	- Position rescue tube across chest and under armpits
-	- Jump into water, knees bent, legs together, feet flat
-Approach Stroke (Breaststroke or Front Crawl)
-	Keep eyes on guest and rescue tube in front of chest
-
-Front Drive
-	- Whistle, point to guest, then perform a compact jump
-	- When close, pull the rescue tube from under your arms and push it out in front of you with both arms locked.
-	- As you near the guest, push the tube slightly underwater and drive it into the chest of the guest.  Keep arms locked straight.
-	- Encourage the guest to hold on to the tube.
-	- Communicate with the guest and keep kicking to maintain your momentum till at the side of the pool.  Assist the guest from the water and make sure they are allright before transferring care to the supervisor to resume guarding.
-	(Front Hug)
-		- If the guest grabs you and you can keep your head above water then reach under the guests arms and hug them as you continue to safety.  If the guest is forcing you under water, it is best to leave them on the rescue tube and push away, then re-approach.  An additional lifeguard may be needed.
-Rear Hug
-	- Whistle, point to guest, then perform a compact jump
-	- When you reach the guest, extend your arms under their armpits and wrap your hands around their shoulders or chest.
-	- Pull the guest onto the tube while keeping your head to the side. Talk to the guest until you reach safety.	
-Two-Lifeguard Rescue
-	- Primary rescuer raises a fist above their head to indicate the need for assistance from another guard.
-	- The second lifeguard performs a Rear Hug while the first guard performs a front drive.
 
 Guest on the surface not breathing
 ------------------------------------------
@@ -413,9 +654,9 @@ Guest on the surface not breathing
 Rescue Breathing and Airway Management
 ------------------------------------------
 Opening Airway of Unconscious guest
-	1. Jaw thrust with Head Tilt
-	2. Head tilt withe chain lift
-	3. (Possible Neck Injury) Jaw thrust WITHOUT Head Tilt
+    1. Jaw thrust with Head Tilt
+    2. Head tilt withe chain lift
+    3. (Possible Neck Injury) Jaw thrust WITHOUT Head Tilt
 For Unconscious guests, occasional gasping breaths may be "Agonal Breaths", which are ineffective.  If you see agonal breaths, then rescue breathing should be provided.
 
 Rapid Extraction
@@ -428,28 +669,13 @@ Rapid Extraction
     - Primary guard slides the rescue tube away before the guest rests on the backboard
 4. Secondary guard holds the backboard with one hand and the guest's wrist in the other.
     - Primary guard stabalizes the backboard in the water.
-    
+
 Once on land
 - Move the guest 6 feet from the edge of the water.
 - Check responsiveness, if not responsive, check for signs of obvious breathing such as chest movement, then check for pulse.
 - If no pulse and no breathing, begin CPR and communicate the need for an AED.
 - If guest has a pulse but no breathing, perform rescue breathing for 2 minutes.
 
-Submerged guest
-------------------------------------------
-Duck and Pluck rescue (Submerged guest within reach)
-    - Grasp rescue tube with one hand.
-    - Reach over the tube to grab the wrist of the submerged guest
-    - Pull them up and with the other hand push the rescue tube under their armpits
-
-Deep Water Rescue
-    - When directly above the guest, stop and release the rescue tube from under your armpits (be sure the strap is still across your chest/shoulder)
-    - Execute a feet-first surface dive
-    - With one hand, reach across the guest's chest under the armpits. Feed the strap of the rescue tube into that hand.
-    - Continue feeding the strap as you move toward the surface (make sure at least one hand is always holding the strap)
-    - When you reach the surface, position the rescue tube appropriately based on the guest's condition
-    
-    
 Spinal Injury Management
 ------------------------------------------
 Causes
@@ -484,10 +710,10 @@ Best Defense against a lawsuit
 CPR and AED
 ------------------------------------------
 AED Special Concerns
-	- Water: keep guest at least 6 feet away from pool.  Dry chest and pads.
-	- Children: Some AEDs have special pads for children
-	- Remove any medication patches underneath pads.
-	- Do not place pads directly above pacemakers
+    - Water: keep guest at least 6 feet away from pool.  Dry chest and pads.
+    - Children: Some AEDs have special pads for children
+    - Remove any medication patches underneath pads.
+    - Do not place pads directly above pacemakers
 
 Supplemental Oxygen Support
 ------------------------------------------
@@ -587,4 +813,4 @@ Exam Notes
 * Factors that make it difficult for a lifeguard to recognize a guest in distress include
     Location in the water, glare, and water clarity
 
-    
+
