@@ -423,3 +423,207 @@ Ask if the guest is choking.  If they can respond verbally, encourage them to co
 - To care for a responsive infant with an airway obstruction you should give:
   - "5 back blows followed by 5 chest thrusts, continuing until the obstruction is removed or the infant become unresponsive."
 
+
+Textbook Chapter 7: Supplemental Oxygen Support
+------------------------------------------
+
+##### NRB (Non-rebreathing mask)
+Provides high flow oxygen to a hypoxic guest.
+
+#### SOS (Supplemental Oxygen Support) Checklist
+- **Oxygen Level:** Check pressure gauge or time-remaning. Replace cylinder if there is less then 15 minutes or 500 psi remaining.
+- **Mask and Tubing:** Check that tubing is attached to the regulator and mask.
+- **Pressure regulator:** No leakage from regulator when it is attached to the cylinder.  Keep extra O-rings on hand.
+- **Cylinder:** Check for valve dammage and check next date for required hydrostatic testings.
+- **Documents:** Keep purchase receipt, operating manual, receipts for hydrostatic testing, receipts for refills, daily inspection records
+
+### Key Points
+- Greatest permanent harm in drowning incidents occurs to the bran, which cannot function without continuous deliver of oxygenated blood.
+- SOS system should be checked at the beginning of **every work day**.
+
+### Questions
+- Pulse oximetry provides rescuers with additional information about oxygen saturation levels.
+  - TRUE
+- Which of the following statements is true of the BVM?
+  - "It is capable of providing a higher concentration of oxygen than normal rescue breathing"
+- What kind of mask is used for responsive guests who show signs of respitory distress/hypoxia?
+  - Non-rebreathing mask (NRB)
+
+
+Textbook Chapter 8
+------------------------------------------
+#### CPR
+**Single Rescuer:** 30 compressions and 2 breaths (for all ages)
+
+### Key Points
+Compression to breath ratio is 30:2 except for multiple rescuer CPR on non-adults, which is 15:2.
+
+### Questions
+- Electrical disturbances in the heart, such as ventricular fibrillation can cause the heart to stop beating properly, with no detectable pulse.
+  - TRUE
+- Check the carotid artery for up to 10 seconds (while also checking for breathing) to detect the presence of a pulse on an infant.
+  - FALSE (An infant's pulse is best found at the branchial artery in the upper arm)
+- Chest compressions should be given at a rate of about 110 compressions per minute.
+  - TRUE (acceptable range between 100 to 120)
+- In single rescuer CPR, 30 compressions and 2 breaths are given for all ages
+  - TRUE (Ratio always 30:2 for single rescuer)
+
+
+Textbook Chapter 9
+------------------------------------------
+### Key Points
+- An unresponsive GID must be **quickly** rescued.
+- Lifeguard begin care in the water by placing the guest on a rescue tube and physically opening the airway.
+- Rescue breathing should begin if the guest does not begin spontaneous breathing once the airway is opened.
+- Use backboard for rapid extrication on and unresponsive GID.
+
+### Questions
+- Regardless of the unresponsive GID rescue type, the guest must be positioned on the rescue tube so that his or her head will naturally fall back to allow care to begin.
+  - TRUE (Unresponsive GID must be positioned on rescue tube to allow for an open airway)
+- The head immobilizer should be kept on the backboard during a rapid extrication procedure
+  - FALSE (The head immobolizer serves no purpose during rapid extrication with no suspected spinal injury)
+- The pool edge technique for rapid extrication can be performed only if a team of three or more responders is available.
+  - FALSE (Can be accomplished with as few as 2 rescuers)
+
+Textbook Chapter 10
+------------------------------------------
+
+#### SMR (Spinal Motion Restriction)
+
+##### Signs of spinal injury
+- Pain in neck or back
+- Numbness, tingling, inability to move limbs
+- Bruising or deformity of the head/neck
+
+When GID has suspected spinal, a guard should keep control of the head at **all times**.
+
+### Questions
+- The **mechanism of injury** refers to what may have caused the incident.
+  - TRUE
+- The vise grip technique is used only for guests with spinal injury in shallow water
+  - FALSE (Can be used at any depth)
+- **Distracting injuries** are additional injuries that distract/overwhelm **back** or **neck** pain.
+  - TRUE (Even if GID does not feel back/neck pain, assume spinal injury based on the cause of the injury)
+- There are circumstances when you may have to gently ease into the pool and move toward guest suspected of having a spinal injury.
+  - TRUE (enter the water with no splash unless pool has moving water)
+- When bringing a guest with a possible spinal injury up from the bottom of a pool, lifeguards should attempt to move in a diagonal path whenever possible.
+  - TRUE (Moving up at an angle minimizes potential abrupt movement)
+- Manual spinal motion restriction can be used for injured guests sitting or standing in the water.
+  - TRUE
+- Which of the following is a true statement regarding the vise grip technique?
+  - This technique can be used on faceup or facedown guests
+
+Textbook Chapter 11
+------------------------------------------
+
+##### Symptoms of shock
+- Cool, moist skin
+- Altered consciousness
+- Anxiety and restlessness
+- Confusion
+- Nausea or vomitting
+- Rapid breathing and heart rate
+
+##### RICE Procedure
+Used for closed wounds like muscle/bone/join injuries.
+- **R**est
+- **I**ce
+- **C**ompression
+- **E**levation
+
+##### Types of splints
+- **Anatomic:** Uses another uninjured part of the body to help immobolize another.
+
+### Key Points
+- DOTS refers to four key items to look for when assessing injuries
+  - Deformity
+  - Open wounds
+  - Tenderness
+  - Swelling
+- Care for external bleeding involves applying direct pressure and bandaging over the wounds
+- RICE is the treatment for closed wounds (bruises) and sprains and strains
+- Care for a knocked-out tooth
+  - Stop bleeding
+  - If guest is an alert adult, place tooth inside the guest's lower lip; otherwise, place it in saliva or milk or slightly salted water
+- Flush any loose object from the eye with running water
+
+### Questions
+- The physical check is part of the secondary assessment and can involve a head-to-toe exam of the guest.
+  - TRUE (it is secondary to circulation, airway and breathing)
+- A full-thickness (third-degree) burn, is characterized by blisters
+  - FALSE (blisters may be near a third degree burn, but are typically associated with second degree burns.  Third degree burns can appear black, gray, white or leathery)
+- A superficial (first-degree burn) can be cared for by cooling the burn and **later** applying a skin moisturizer.
+  - TRUE
+- The proper care for a nosebleed involves sitting down and leaning the head forward while pinching the nose.
+  - TRUE (Pinch nose for 5 to 10 minutes, if bleeding does not stop, contact EMS)
+- Which of the following is a sign or symptom of shock?
+  - Cool, moist skin
+- Which of the following is a step in the RICE procedure?
+  - Ice
+- Which of the following is an example of an anatomic splint?
+  - Holding a wrist to the chest
+- Which of the following is a true statement regarding caring for a knocked-out tooth?
+  - The missing tooth can be preserved in a saline solution like Save-a-tooth. (Milk works as well).
+
+Textbook Chapter 12
+------------------------------------------
+
+**Nitroglycerin** is a medication prescribed to those suffering from heart related illnesses.
+
+##### Heart Attack
+- Provide aspirin (if available)
+
+##### Stroke
+###### Signs
+- Weakness or numbness on one side of the body
+- Vision problems
+- Speaking problems
+- Dizziness or loss of balance
+- Confusion
+- Sudden severe headache
+
+##### Fainting
+- Look for signs of head or spinal injuries.
+- Check responsiveness/breathing/pulse
+- If guest vomits roll them into recovery position (use manual suction as needed)
+- Loosen any restrictive clothing
+- Activate EAP to summon EMS personnel
+- Position guest flat on his or her back
+
+##### Asthma Attack
+###### Signs
+- Difficulty breathing
+- Rapid shallow breathing
+- Coughing
+- Whistling or high-pitched sheezing
+- Fatigue
+
+##### Bee sting
+- Use edge of credit card to scrape away the stinger
+- Wash the affected area with soap and water
+- Apply an ice pack
+- Provide an over-the-counter pain reliever such as ibuprofen or acetaminophen
+- Use topical hydrocortisone cream to relieve itching
+- Monitor the guest to be sure there are no allergic reactions that could become severe
+- Active your EAP to summon EMS personnel at first sign of anaphylaxis
+
+### Questions
+- A guest experiencing a heart attack or stroke should be given aspirin as part of your care
+  - FALSE (aspirin is for heart attacks, but not stroke)
+- Nitroglycerin is a medication used to treat anaphylaxis.
+  - FALSE (used for thos suffering from heart related illnesses)
+- To care for fainting, position the guest flat on their back
+  - TRUE
+- An epinephrine injection is given in the thigh and can go through normal clothing.
+  - TRUE (it is designed to penetrate clothing such as jeans)
+- In the US, you can contact poison control by calling 800-222-1222
+  - TRUE
+- The proper care for a diabetic emergency involves providing sugare even if you are uncertain if the condition is high or low blood sugar.
+  - TRUE
+- The bite from a brown recluse spider is often immediately noticeable
+  - FALSE (guest will likely not feel it, but hours later will develop pain/swelling/itching/redness)
+- Which of the following is a sign or symptom of stroke?
+  - Weakness or numbness on one side
+
+Textbook Chapter 13
+------------------------------------------
